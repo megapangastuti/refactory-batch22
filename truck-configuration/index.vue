@@ -254,9 +254,11 @@
   </div>
 </template>
 
+
 <script lang="ts" setup>
 import Navbar from '@/components/navbar/Navbar.vue'
 import Sidebar from '@/components/menu-sidebar/SideMenu.vue'
 </script>
+
 
 

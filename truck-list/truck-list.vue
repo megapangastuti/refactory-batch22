@@ -89,7 +89,7 @@ export default {
   },
 
   setup() {
-    const items: any[] = Array.from({ length: 0 }).map(() => {
+    const items: any[] = Array.from({ length: 50 }).map(() => {
       return {
         id: 'JGCR-2536782',
         jenis: 'Truk Engkel',
@@ -114,4 +114,5 @@ export default {
   }
 }
 </script>
+
 
