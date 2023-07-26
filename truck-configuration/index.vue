@@ -169,7 +169,7 @@
                 <tr class="h-52">
                   <td colspan="7">
                     <p class="text-gray-800 font-semibold text-lg text-center">
-                      Tidak ada daftar kota
+                      Tidak ada daftar truk
                     </p>
                   </td>
                 </tr>
@@ -258,3 +258,5 @@
 import Navbar from '@/components/navbar/Navbar.vue'
 import Sidebar from '@/components/menu-sidebar/SideMenu.vue'
 </script>
+
+
